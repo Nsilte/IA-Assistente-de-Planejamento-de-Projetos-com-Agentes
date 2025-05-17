@@ -62,4 +62,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 *   O código foi projetado para ser executado no Google Colab, mas pode ser adaptado para outros ambientes.
 *   A qualidade do plano de projeto gerado depende da qualidade dos prompts e das informações fornecidas aos agentes.
-*   O agente de modelagem tenta gerar imagens SVG, mas a qualidade e validade do SVG gerado dependem da capacidade do modelo Gemini. Pode ser necessário ajustar as instruções do agente para obter melhores resultados.
